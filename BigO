@@ -1,3 +1,19 @@
 Good coode:
 Readable
 Escalable
+
+JS
+Performance measures
+
+Big O scability of code, how much the algorithm slow down?
+Steps into a function
+
+O(n) -- Linear Time -- Depends on number of inputs
+O(1) -- Constant Time -- Only the first item of the array
+Rule Book
+1 Worst Case
+	Always think in the worst case for pulling data
+2 Remove Constant
+	Constants are irelevant due to the potential value of n, even if you have an 2n
+3 Different terms for inputs
+4 Drop Non Dominants
