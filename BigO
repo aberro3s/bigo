@@ -1,6 +1,8 @@
 Good coode:
 Readable
 Escalable
+	Speed-Time complexity
+	Memory-Space complexity
 
 JS
 Performance measures
@@ -16,4 +18,25 @@ Rule Book
 2 Remove Constant
 	Constants are irelevant due to the potential value of n, even if you have an 2n
 3 Different terms for inputs
+	O(a + b) for different inputs
+	Nested loops = O(n^2)
+	Nested elements should be multiplied
 4 Drop Non Dominants
+	Keep the dominant term, the n with higher concurrency
+	
+**Iterating through half a collection is still O(n)
+**Two separate collections O(a+b)
+
+What cause time in a function?
+Operations(+,-,*,/)
+Comparisons(<>==)
+Looping
+Outside Function call
+
+O(n!) adding a loop for every element
+
+Space Complexity
+Variables
+Data Structures
+Funtion Call
+Allocation
