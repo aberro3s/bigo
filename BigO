@@ -40,3 +40,16 @@ Variables
 Data Structures
 Funtion Call
 Allocation
+
+Data Structures
+variation in how store data
+blocks of data
+***Javascript doesnt have intergers, only 64 bit floats
+***it has undefined as well
+	ARRAY
+***pop removes last item
+***ushift adds element at the beggining of the array // O(n)
+	static - fixed number of elements
+ THIS
+ In which scope we are, using the left from dot technique
+
