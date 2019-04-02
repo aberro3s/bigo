@@ -53,3 +53,9 @@ blocks of data
  THIS
  In which scope we are, using the left from dot technique
 
+Hash function generates a value of fixed value for each input it gets
+Main difference between Map and object, map let you have any type of data as key
+	Objects are inserted randomly in the memory
+	Maps inserts them in order
+	Sets, same as keys but only stores the leys
+	
