@@ -59,3 +59,12 @@ Main difference between Map and object, map let you have any type of data as key
 	Maps inserts them in order
 	Sets, same as keys but only stores the leys
 	
+Linked list
+	Prepend - insert at the beggining of the linked list O(1)
+	Append - insert at the end of the linked list O(1)
+	lookup - need to loop looking for the index O(n)
+	Insert/Delete - O(n)
+	
+Pointer - reference to another place in memory
+	
+	
