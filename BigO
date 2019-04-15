@@ -76,3 +76,7 @@ Binary Heap nodes nor in order, only need to be bigger than root node
 Trie - tree used for texts
 	
 Binart heap
+
+Graphs - Directed/Undirected Directed like twitter, undirected like facebook
+	 Weighted/Unwighted weighted like google maps
+	 Cyclic/acyclic cyclic returns to the beginning, used in maps as well
